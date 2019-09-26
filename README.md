@@ -1,4 +1,14 @@
-this repo is meant to serve as a kind of bonfire-- a place to connect with others, discuss cultural movements & patterns, and find ways to better design a culture that works for everybody.
+this repo is meant to serve as a kind of bonfire-- a place to connect with others, discuss cultural movements & patterns, and find ways to better design a culture that works for everybody, specifically as it relates to the workplace.
+
+### Why I give a shit
+
+Most places I have worked treated me as an asset. This is neither a fluke nor uncommon-- from nursing, teaching, laying asphalt, retail, construction, technology, as an employee number serving a certain function, I am seen as an unfortunately necessary expense to a collective of desires by folks of a different social class than myself. If a boss could replace me with a robot or a program, or somebody who at least would work for less or maybe has no kids or anything in their real lives pulling them from making a boss money, then my livelihood would be forfeit. Doesn't it always seem people who would do something like this to somebody more often make it to upper management? This is where they do the most damage, and the structure of a "company" perpetuates and supports this.
+
+### What I feel can be done
+
+Open-source of culture & social constructs, where hierarchy is not the default, but used only when necessary.
+
+
 
 What my points of inspiration are :
 
